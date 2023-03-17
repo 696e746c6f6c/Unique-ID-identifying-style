@@ -4,4 +4,13 @@ I've decided to create a exploit in Python programming language that is generati
 
 **Note: This code that I have created, won't generate 10k valid IDs that exists on that program. There will be many positive and false positives.**
 
+## Usage:
+
+`git clone https://github.com/int-wsl/Unique-ID-identifying-style.git`
+
+`python3 poc.py`
+
+`cat save.txt`
+
 ![](video.gif)
+
